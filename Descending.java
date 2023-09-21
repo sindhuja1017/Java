@@ -2,7 +2,7 @@ class Descending
 {
 	public static void main(String[] args)
 	{
-		int a=20,b=30,c=10;
+		int a=400,b=500,c=150;
 		if(c>a)
 		{
 			c=c+a;
